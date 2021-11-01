@@ -157,7 +157,7 @@ For markup files such as Markdown or AsciiDoc, you can retrieve the rendered HTM
 
 Return the raw contents of a gist. This is the default if you do not pass any specific media type.
 
-### base64
+### 
 
     application/vnd.github.VERSION.base64
 
@@ -168,3 +168,5 @@ The gist contents are base64-encoded before being sent out. This can be useful i
 [git-patch]: http://git-scm.com/docs/git-format-patch
 [hypermedia]: /rest#hypermedia
 [versions]: /developers/overview/about-githubs-apis
+
+git-scm.com/IP
